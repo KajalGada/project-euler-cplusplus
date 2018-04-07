@@ -51,17 +51,12 @@ int main()
     /*for (int r = 0; r <= gridSize; ++r)
     {
         for (int c = 0; c <= gridSize; ++c)
-        {
-            if (c < gridSize)
-            {
-                std::cout << gridRoute[r][c] << " ";
-            }
-            else
-            {
-                std::cout << gridRoute[r][c] << std::endl;
-            }
+        {        
+            std::cout << gridRoute[r][c] << " ";            
         }
-    }*/
+    }
+    
+    std::cout << "\n" << std::endl; */
     
     
     return 0;
